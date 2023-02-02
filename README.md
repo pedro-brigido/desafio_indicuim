@@ -11,4 +11,4 @@ Sua estrutura está dividida em:
     5. Avaliação
     6. Implantação 
 
-No item 6 é realizada a previsão dos dados conforme solicitado. 
+No item 6 é realizada a previsão dos dados conforme solicitado, e a mesma foi salva no arquivo excel chamado resultados_previsoes.xlsx. 
